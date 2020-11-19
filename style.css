@@ -1,0 +1,97 @@
+/*start*/
+body{
+	font-family: Verdana;
+	background-color: lightgrey;
+	background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mandalorian-baby-yoda-2-1573847849.jpg?crop=0.8305555555555556xw:1xh;center,top&resize=1200:*);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+}
+/*bakgrunds-container som lägger bilder uanför huvud-container*/
+.background-container{
+	width: 1204px;
+}
+
+.left-img{
+	width:249px;
+	float: left;
+}
+
+.right-img{
+	width: 249px;
+	float: right;
+}
+/*huvud-containern*/
+.container{
+	border: 2px solid black;
+	background-color: lightblue;
+	width: 700px;
+	overflow: hidden;
+}
+
+.header{
+	background-color: blue;
+	color: white;
+	height: 75px;
+	background-image: url(https://www.pngarts.com/files/1/Header-PNG-Transparent-Image.png);
+	background-size: 700px;
+	font-size: 45px;
+	padding-top: 2px;
+	padding-left: 22px;
+}
+
+.header-img{
+	width: 700px;
+}
+
+.menu{
+	background-color: lightblue;
+	height: 30px;
+	border: 1px solid black;
+	padding-left: 20px;
+	padding-top: 8px;
+}
+
+.Container-body{
+	background-color: white;
+	height: 550px;
+	width: 360px;
+	padding: 20px;
+}
+
+.baby-yoda-img{
+	float: left;
+	width: 240px;
+	margin-right: 4px;
+}
+
+.caption{
+	padding: 1px;
+	font-size: 14px;
+}
+
+.Text{
+	float: left;
+}
+/*sidebar och sidebar-bild*/
+.sidebar{
+	background-color: #333399;
+	float: right;
+	height: 350px;
+	width: 280px;
+	color: white;
+	padding: 10px;
+	font-size: 12px;
+}
+
+.sidebar-img{
+	padding: 4px;
+	width: 250px;
+}
+/**footer**/
+.footer{
+	background-color: blue;
+	height: 50px;
+}
+/*stopp*/
