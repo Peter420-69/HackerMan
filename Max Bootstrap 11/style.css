@@ -1,0 +1,58 @@
+/* Positioning N stuff for the background-img */
+.razor-crest-img{
+	background-image: url(https://jedibusiness.com/images/news/razorcrest1.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.grogu-img{
+	background-image: url(https://www.ubackground.com/_ph/19/687488319.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.mando-sniping{
+	background-image: url(https://fastly.syfy.com/sites/syfy/files/2019/11/mandalorian.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+/* Headers */
+h1, h3{
+	color: white;
+}
+
+/* Text-customizing */
+.lore-text{
+	color: white;
+	font-size: 25px;
+}
+
+.text{
+	color: white;	
+}
+
+/* Table-customizing */
+.table{
+	color: white;
+	border-collapse: collapse;
+	border: 2px solid white;
+}
+
+th{
+	color: white;
+}
+
+/* Link-customizing */
+.link-color{
+	color: white;
+	text-align: center;
+}
+
+/* Som tillgänglighets-anpassning - använde jag mig av alt="" så att man ska förstå vad det är för bilder på sidan även om de inte laddas in av någon anledning. */
